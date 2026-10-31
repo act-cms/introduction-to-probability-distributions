@@ -1,7 +1,7 @@
 Lesson 01: Introduction to Probability Distributions
 =======================
 
-The purpose of this lesson is to enable students to visualize and characterize probability distribution by calculating the mode, first moment, and (root of the) second moment. They do so using the Maxwell speed distribution. Visualizations are for the noble gases neon, argon, and krypton, but instructors could also modify the activity by incorporating other gas molecules. In this activity, students calculate the most probable speed, average speed, and root mean square speed of these distributions. 
+The purpose of this lesson is to enable students to visualize and characterize probability distribution by calculating the mode, first moment, and (root of the) second moment. In this activity, the Maxwell speed distribution is used as an example probability distribution function. Visualizations are for the noble gases neon, argon, and krypton, but instructors could also modify the activity by incorporating other gas molecules. In this activity, students calculate the most probable speed, average speed, and root mean square speed of these distributions. 
 
 This activity was piloted across two 75 min class sessions. The activity could be modified for two 50 minute sessions or one 3 hour lab depending on timing and level of detail you want to cover.
 
