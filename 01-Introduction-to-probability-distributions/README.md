@@ -28,7 +28,7 @@ and/or completed the following modules/lessons available on the ACT-CMS Portal:
 Before beginning this lesson, students are expected to be familiar with the
 following content topics:
 
-* Probability Distribution Functions (Familiarity from, e.g., lecture, although background is provided)
+* Probability Distribution Functions (e.g., familiarity from lecture, although background is provided)
 * Maxwell speed distribution (Introductory/General Chemistry)
 
 ### Resources
@@ -47,7 +47,7 @@ This lesson is provided for the following modality of instruction and associated
 
 Also provided to support adopting instructors are
 - `Instructor-Key.ipynb`: Instructor "key" notebook with completed code cells and full instructor commentary in Markdown cells
-- `Nnstructor-Notes.ipynb`: Author notes for adopting instructors, including implementation strategies, common issues & workarounds, piloting notes, etc.
+- `Instructor-Notes.ipynb`: Author notes for adopting instructors, including implementation strategies, common issues & workarounds, piloting notes, etc.
 
 See the `Instructor-Notes.ipynb` For more information about implementation
 strategies from the lesson author.
