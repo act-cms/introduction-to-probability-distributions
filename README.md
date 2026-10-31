@@ -1,24 +1,56 @@
-Lesson/Module Title
-===================
+Lesson 01: Introduction to Probability Distributions
+=======================
 
-Write a short description (2-3 sentences) of your lesson here. The `main`
-branch of your lesson repository is the most public-facing branch, which will
-primarily be accessed by prospective adopting instructors as they explore the
-open educational resources (OER) available on the ACT-CMS portal. Minimally,
-you should address the lesson's purpose, intended audience (course & student
-level), and time required.
+The purpose of this lesson is to enable students to visualize and characterize probability distribution by calculating the mode, first moment, and (root of the) second moment. In this activity, the Maxwell speed distribution is used as an example probability distribution function. Visualizations are for the noble gases neon, argon, and krypton, but instructors could also modify the activity by incorporating other gas molecules. In this activity, students calculate the most probable speed, average speed, and root mean square speed of these distributions. 
 
-## Lesson/Module Contents
+This activity was piloted across two 75 min class sessions. The activity could be modified for two 50 minute sessions or one 3 hour lab depending on timing and level of detail you want to cover.
 
-Provide a brief overview of the structure of your module or lesson as an
-enumerated list below:
+## Lesson Information
+### Lesson Learning Outcomes
+At the end of this lesson, students will be able to
+1. Write a user-defined function in python 
+2. Define a numpy array in python
+3. Plot a user-defined function using matplotlib
+4. Integrate a probability distribution to find the probability using scipy
+5. Minimize a probability distribution to find the most probable value using scipy
+6. Calculate the first and second moment of a probability distribution
 
-1. Title of first lesson in module
-    * Directory: `01_first-lesson`
-    * Description: Extremely brief description of lesson content
-    * Time: 2-3 hours
-2. Title of second lesson in module (if present)
-    * Directory: `02_second-lesson`
-    * Description: Extremely brief description of lesson content
-    * Time: 2-3 hours
+### Cyberinfrastructure Prerequisites
+
+Before beginning this lesson, students are expected to have the following skills
+and/or completed the following modules/lessons available on the ACT-CMS Portal:
+
+* Basic skills in Python programming and syntax
+    - [Introduction to Programming for Molecular Scientists](https://act-cms.molssi.org/portal/lessons/foundational-intro-python/)
+
+### Content Prerequisites
+
+Before beginning this lesson, students are expected to be familiar with the
+following content topics:
+
+* Probability Distribution Functions (e.g., familiarity from lecture, although background is provided)
+* Maxwell speed distribution (Introductory/General Chemistry)
+
+### Resources
+
+* [Introduction to Programming for Molecular Scientists](https://act-cms.molssi.org/portal/lessons/foundational-intro-python/)
+
+### References
+
+## Lesson Versions & Intended Modalities
+
+This lesson is provided for the following modality of instruction and associated implementation strategies.
+
+| Modality     | Pedagogy                | Role of Instructor                                                       | Lesson Version            |
+|--------------|-------------------------|---------------------------------------------------------------------------|--------------------------|
+| Synchronous  | LiveCoding              | Demonstrate & narrate process, control pacing, etc.                      | `Student.ipynb` |
+
+Also provided to support adopting instructors are
+- `Instructor-Key.ipynb`: Instructor "key" notebook with completed code cells and full instructor commentary in Markdown cells
+- `Instructor-Notes.ipynb`: Author notes for adopting instructors, including implementation strategies, common issues & workarounds, piloting notes, etc.
+
+See the `Instructor-Notes.ipynb` For more information about implementation
+strategies from the lesson author.
+
+
 
